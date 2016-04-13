@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesph00urrgoog/institutionesph00urrgoog_0004.png"; bbox 0 0 3492 5525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1750 5524">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1750 5524">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1750 5524"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1750 5524; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 3839 25 5267">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 3839 25 5267">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 3839 25 5267; baseline -285.6 -1142.4"><span class='ocrx_word' id='word_1_2' title='bbox 18 3839 22 3862; x_wconf 70' lang='grc' dir='ltr'><strong><em>τ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 0 3896 14 3925; x_wconf 70' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 0 3949 23 4236; x_wconf 46' lang='lat' dir='ltr'>&#39;Ratun-mauu</span> <span class='ocrx_word' id='word_1_5' title='bbox 0 4253 25 4910; x_wconf 30' lang='lat' dir='ltr'>*wasslffluulmffwadwwwssdunussl</span> <span class='ocrx_word' id='word_1_6' title='bbox 0 4968 21 4995; x_wconf 61' lang='grc' dir='ltr'><strong><em>Γ</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 0 5025 24 5267; x_wconf 52' lang='grc' dir='ltr'>-ἳ,ω..κ.μ.ημὲ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

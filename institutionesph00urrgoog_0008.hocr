@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutionesph00urrgoog/institutionesph00urrgoog_0008.png"; bbox 0 0 3492 5525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1441 1899 2150 2146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1441 1899 2150 2146">
+     <span class='ocr_line' id='line_1_1' title="bbox 1441 1899 2128 1947; baseline -0.01 1"><span class='ocrx_word' id='word_1_1' title='bbox 1441 1899 1670 1947; x_wconf 59' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1688 1899 1907 1946; x_wconf 58' lang='grc' dir='ltr'>ΒΟΕΚΕΘΕ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1928 1899 2128 1946; x_wconf 63' lang='lat' dir='ltr'>unam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1445 1964 2150 2080; baseline -0.01 0"><span class='ocrx_word' id='word_1_4' title='bbox 1445 2028 1532 2080; x_wconf 73' lang='lat'>.-</span> <span class='ocrx_word' id='word_1_5' title='bbox 1548 2030 1674 2075; x_wconf 69' lang='lat' dir='ltr'>JGHN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1697 1964 1960 2076; x_wconf 40' lang='lat' dir='ltr'>gagg-NE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1979 2030 2150 2074; x_wconf 67' lang='lat' dir='ltr'>etun</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1597 2094 1988 2146; baseline -0.005 -5"><span class='ocrx_word' id='word_1_8' title='bbox 1597 2094 1799 2141; x_wconf 58' lang='lat' dir='ltr'>m?</span> <span class='ocrx_word' id='word_1_9' title='bbox 1814 2096 1857 2146; x_wconf 80' lang='grc'>4,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1883 2095 1988 2140; x_wconf 73' lang='lat'>10⁴1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3469 10 3471 5431">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3469 10 3471 5431">
+     <span class='ocr_line' id='line_1_4' title="bbox 3469 10 3471 5431; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 3469 10 3471 5431; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
